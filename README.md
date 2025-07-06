@@ -17,6 +17,12 @@
     - clear
 
 
+## 動作イメージ
+
+https://github.com/user-attachments/assets/00681c9c-ac8e-46e2-9768-7c9f688acb17
+
+
+
 ## 動かし方
 TSファイルはビルド済みなので、`index.html`をブラウザで動かしてみてください。
 
